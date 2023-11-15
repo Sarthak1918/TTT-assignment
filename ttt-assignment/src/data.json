@@ -1,0 +1,112 @@
+{
+    "userid": "a957b3ce5f504f38a301ee31c483ab62",
+    "username": "anujgosalia",
+    "fullname": "Anuj Gosalia",
+    "followers_count": 6482,
+    "following_count": 245,
+    "bio": "Co-founder & CEO at Terribly Tiny Tales",
+    "insta_link": "https://www.instagram.com/anujgosalia",
+    "profile_data": {
+        "stars": 125,
+        "upvotes": 12,
+        "profileViews": 57823,
+        "likes": 26012
+    },
+    "posts": [
+        {
+            "post_id": "6e0d863853904b8cbe0c7515f6d7526b",
+            "category": "experience",
+            "title": "Exploring Machine Learning Trends",
+            "description": "Discover the latest trends in machine learning and how they are reshaping industries. From deep learning to natural language processing, we've got it covered.",
+            "upvotes": 85,
+            "postViews": 800,
+            "postDate": 1698848578858,
+            "readTime": "8 mins"
+        },
+        {
+            "post_id": "f1a05addb97448a18608f24483a17144",
+            "category": "musing",
+            "title": "The Rise of Virtual Reality",
+            "description": "Step into the immersive world of virtual reality. Explore the technological advancements and potential applications that are revolutionizing how we experience the digital realm.",
+            "content": [
+                "Virtual reality has come a long way, offering immersive experiences across various industries.",
+                "In this blog post, we'll dive into the rise of virtual reality, from gaming applications to virtual tours and beyond.",
+                "Discover how VR technology is transforming the way we interact with digital content and its potential for future innovations."
+            ],
+            "upvotes": 95,
+            "postpostViews": 1200,
+            "postDate": 1696170191400,
+            "readTime": "12 mins"
+        },
+        {
+            "post_id": "400e4a8697b049c5a0649f5135d97064",
+            "category": "thought",
+            "title": "The Impact of Cryptocurrency on Finance",
+            "description": "Explore the world of cryptocurrency and its transformative impact on traditional finance systems. From Bitcoin to decentralized finance (DeFi), we'll cover it all.",
+            "upvotes": 150,
+            "postViews": 1500,
+            "postDate": 1693837403171,
+            "readTime": "15 mins"
+        },
+        {
+            "post_id": "41d16e27b79c461f8bae3a28f3f0e722",
+            "category": "experience",
+            "title": "The Beauty of Nature Photography",
+            "description": "Capturing the essence of nature through the lens. Join us on a visual journey as we explore the art of nature photography and the stories behind the stunning images.",
+            "upvotes": 110,
+            "postViews": 900,
+            "postDate": 1689431013512,
+            "readTime": "12 mins"
+        },
+        {
+            "post_id": "e5b9a0fe98c44511a7cc328c4ea0ca3d",
+            "category": "musing",
+            "title": "The World of Cybersecurity",
+            "description": "Securing the digital frontier. Explore the world of cybersecurity, from threat detection to ethical hacking, and learn how experts defend against evolving online threats.",
+            "upvotes": 130,
+            "postViews": 1100,
+            "postDate": 1685975029354,
+            "readTime": "10 mins"
+        },
+        {
+            "post_id": "d0f72699a9ce458d9416960762762743",
+            "category": "experience",
+            "title": "The Evolution of Mobile Technology",
+            "description": "From brick phones to foldable screens, explore the evolution of mobile technology. Trace the journey of smartphones and their impact on communication, entertainment, and beyond.",
+            "upvotes": 95,
+            "postViews": 1000,
+            "postDate": 1681655043066,
+            "readTime": "8 mins"
+        },
+        {
+            "post_id": "247eb68201ab458681991e16c5372dcc",
+            "category": "experience",
+            "title": "The Power of Mindfulness",
+            "description": "Embracing mindfulness in a fast-paced world. Learn about the benefits of mindfulness practices, from meditation to mindful living, and discover ways to bring peace to your daily life.",
+            "upvotes": 120,
+            "postViews": 950,
+            "postDate": 1668522255007,
+            "readTime": "10 mins"
+        },
+        {
+            "post_id": "8181372f3a3a479fbf382f8c7b844bff",
+            "category": "thought",
+            "title": "The Future of Space Exploration",
+            "description": "Beyond the stars: a glimpse into the future of space exploration. From Mars missions to interstellar travel, join us as we discuss the exciting possibilities that lie ahead.",
+            "upvotes": 140,
+            "postViews": 1300,
+            "postDate": 1655821490506,
+            "readTime": "18 mins"
+        },
+        {
+            "post_id": "34965dde7881479dbdd84843b27b575a",
+            "category": "musing",
+            "title": "The Art of Culinary Creativity",
+            "description": "Savoring the flavors of creativity in the kitchen. Join us on a gastronomic adventure as we explore the art of culinary creativity, from unique recipes to the science of cooking.",
+            "upvotes": 110,
+            "postViews": 900,
+            "postDate": 1639578270369,
+            "readTime": "14 mins"
+        }
+    ]
+}
