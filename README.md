@@ -15,7 +15,7 @@ The hosted assignment can be viewed on [https://ttt-sarthak.netlify.app](https:/
 
 ### Mobile Preview 
 
-![TTT Mobile Preview Image](https://ttt-stories.netlify.app/mobile-view.png)
+![TTT Mobile Preview Image](https://ttt-sarthak.netlify.app/mobile-view.png)
 
 
 ## Development environment
